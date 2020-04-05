@@ -1,4 +1,6 @@
-# GoogleCodeJam2020
+# GoogleCodeJam2020 - Qualification Round
+
+
 The solutions to the first two qestions achieved full marks.
 
 
